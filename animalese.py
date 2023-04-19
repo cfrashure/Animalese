@@ -5,7 +5,7 @@ from pathlib import Path
 
 # Enable the below line for a shell clear on mac/linux/unix
 os.system('clear')
-# Enable the below line for a shell clear on mac/linux/unix
+# Enable the below line for a cmd clear on windows
 # os.system('cls')
 msg = ""
 while msg != "exit":
